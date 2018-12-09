@@ -1,0 +1,9 @@
+NumSectors=50
+NumTracks=50
+StartPosition=16
+R1=0,15,2,4
+R2=1,17,4,3
+R3=2,14,2,4
+R4=3,18,2,3
+R5=4,13,2,2
+;
